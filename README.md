@@ -1,2 +1,2 @@
 # egc-pims
-EGC PIMS application
+Akeneo PIMS application
